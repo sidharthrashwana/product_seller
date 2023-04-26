@@ -1,0 +1,11 @@
+ERROR_MSG_CREATED = {'errorCode':1000 , 'message':'Created'}
+ERROR_MSG_UPDATE = {'errorCode':1001 , 'message':'Updated'}
+ERROR_MSG_DELETED={'errorCode':1002 , 'message':'Deleted'}
+ERROR_MSG_NOT_FOUND = {'errorCode':1003 , 'message':'Not Found'}
+ERROR_MSG_CREATE_FAILED = {'errorCode':1004 , 'message':'Create Failed'}
+ERROR_MSG_UPDATE_FAILED = {'errorCode':1005 , 'message':'Update Failed'}
+ERROR_MSG_DELETE_FAILED = {'errorCode':1006 , 'message':'Delete Failed'}
+ERROR_MSG_FILTER_EMPTY = {'errorCode':1007 , 'message':'Filter Cannot Be Empty'}
+ERROR_MSG_UPDATE_EMPTY ={'errorCode':1008 , 'message':'Update Cannot Be Empty'}
+ERROR_MSG_DUPLICATE_KEY={'errorCode':1009 , 'message':'Duplicate Key'}
+ERROR_MSG_UNAUTHORIZED = {'errorCode':401, 'message':'Unauthorized Access'}

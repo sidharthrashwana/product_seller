@@ -1,0 +1,11 @@
+python-multipart
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+loguru
+python-jose
+orjson
+passlib
+bcrypt
